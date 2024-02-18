@@ -1,0 +1,4 @@
+additionalProperties:
+  library: jvm-ktor
+  serializationLibrary: jackson
+  sortParamsByRequiredFlag: false
